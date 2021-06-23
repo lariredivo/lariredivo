@@ -1,4 +1,5 @@
 👋 Hi, I’m @lariredivo
+
 My name is Larissa, but you can call me lari! I am a biology and I am currently studying to became a system developer in Brazil. 👩‍💻 Seeking to be a positive force in the world!
 <!-- 👀 I’m interested in ... -->
 🌱 I’m currently learning HTML, CSS and JavaScript.
