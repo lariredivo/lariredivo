@@ -1,12 +1,17 @@
 👋 Hi, I’m @lariredivo
-My name is Larissa, but you can call me lari! I am a biology and I am currently studying to became a system developer. 👩‍💻 Seeking to be a positive force in the world!
+My name is Larissa, but you can call me lari! I am a biology and I am currently studying to became a system developer in Brazil. 👩‍💻 Seeking to be a positive force in the world!
 <!-- 👀 I’m interested in ... -->
- 🌱 I’m currently learning HTML, CSS and JavaScript
-📫 How to reach me: by larissa.redivo@gmail.com or by Linkedin: https://www.linkedin.com/in/larissa-redivo-126661137/
+🌱 I’m currently learning HTML, CSS and JavaScript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&layout=compact)](https://github.com/lariredivo/github-readme-stats)
+📫 How to reach me:
+<a href="https://www.linkedin.com/in/larissa-redivo-126661137/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 
-![Snake animation](https://github.com/lariredivo/lariredivo/blob/output/github-contribution-grid-snake.svg)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
+
+
 <!---
 lariredivo/lariredivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
