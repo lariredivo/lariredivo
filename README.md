@@ -8,7 +8,7 @@ My name is Larissa, but you can call me lari! I am a biology and I am currently 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
 
