@@ -2,7 +2,7 @@
 
 My name is Larissa, but you can call me lari! I am a biology and I am currently studying to became a system developer in Brazil. 👩‍💻 Seeking to be a positive force in the world!
 <!-- 👀 I’m interested in ... -->
-🌱 I’m currently learning HTML, CSS and JavaScript.
+🌱 I’m currently learning HTML, CSS, JavaScript and Go.
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/larissa-redivo-126661137/" alt="Linkedin" target="_blank">
