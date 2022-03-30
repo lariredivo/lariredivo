@@ -1,6 +1,6 @@
 👋 Hi, I’m @lariredivo
 
-My name is Larissa, but you can call me lari! I am currently studying to became a system developer in Brazil. 👩‍💻 Seeking to be a positive force in the world!
+My name is Larissa, but you can call me Lari! I am a biologyst and currently I am studying to became a system developer in Brazil. 👩‍💻 Hoping to be a positive force in the world!
 <!-- 👀 I’m interested in ... -->
 🌱 I’m currently learning HTML, CSS and JavaScript.
 
