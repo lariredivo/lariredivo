@@ -1,8 +1,7 @@
 👋 Hi, I’m @lariredivo
 
-My name is Larissa, but you can call me Lari! I am a biologyst and currently I am studying to became a system developer in Brazil. 👩‍💻 Hoping to be a positive force in the world!
+My name is Larissa, but you can call me Lari! I am a biologyst and a QA analyst in Brazil. 👩‍💻 Hoping to be a positive force in the world!
 <!-- 👀 I’m interested in ... -->
-🌱 I’m currently learning HTML, CSS and JavaScript.
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/larissa-redivo-126661137/" alt="Linkedin" target="_blank">
